@@ -37,17 +37,15 @@ ticketing-lab
 
 ---
 
-## Current Tickets
-
 | Ticket | Description | Status |
 |---------|-------------|--------|
 | Ticket 001 | Password Reset / Account Lockout | Closed |
+| Ticket 002 | Active Directory User Creation | Closed |
 
 ---
 
 ## Future Tickets
 
-- User Account Creation
 - Network Connectivity
 - Shared Folder Permissions
 - Printer Troubleshooting
