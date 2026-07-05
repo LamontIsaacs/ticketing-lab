@@ -42,7 +42,8 @@ ticketing-lab
 | Ticket 001 | Password Reset / Account Lockout | Closed |
 | Ticket 002 | Active Directory User Creation | Closed |
 | Ticket 003 | Add User to Security Groups | Closed |
-| Ticket 004 | Unlock Active Directory Account | Closed | 
+| Ticket 004 | Unlock Active Directory Account | Closed |
+| Ticket 005 | Disabled Active Directory User Account| Closed| 
 ---
 
 ## Future Tickets
